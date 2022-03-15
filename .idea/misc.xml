@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/drawable-v24/edittext_corner.xml" value="0.111" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/drawable-v24/ic_baseline_camera_alt_24.xml" value="0.111" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.111" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.111" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/drawable/ic_add_circle_outline_black_24dp.xml" value="0.111" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/drawable/ic_baseline_crop_16_9_24.xml" value="0.111" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/drawable/item_selector.xml" value="0.111" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/layout/activity_second.xml" value="0.18854166666666666" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/layout/fragment_third.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/layout/item_layout.xml" value="0.18854166666666666" />
+        <entry key="..\:/Android project/NetworkingwithImageUpload/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

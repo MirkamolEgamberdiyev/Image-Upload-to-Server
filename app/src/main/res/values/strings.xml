@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Networking with ImageUpload</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="grey">#8796E6</string>
+</resources>
